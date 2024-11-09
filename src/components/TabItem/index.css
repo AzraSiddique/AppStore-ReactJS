@@ -1,0 +1,34 @@
+.tab-list-item {
+  list-style-type: none;
+  padding-left: 0px;
+  cursor: pointer;
+  width: 80px;
+  text-align: center;
+  font-family: 'Bree Serif';
+}
+
+.active {
+  border-bottom: 3px solid #2563eb;
+}
+
+.paraClassName {
+  color: #2563eb;
+  font-weight: 400;
+  font-size: 15px;
+  border: none;
+  font-family: 'Bree Serif';
+  background: transparent;
+}
+
+.not-active {
+  border-bottom: 1px solid #7b8794;
+}
+
+.not-activepara {
+  color: #7b8794;
+  font-weight: 400;
+  font-size: 15px;
+  border: none;
+  font-family: 'Bree Serif';
+  background: transparent;
+}
